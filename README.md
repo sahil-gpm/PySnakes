@@ -1,7 +1,7 @@
 
 # Snakes game in Python
 
-A simple snake and food game in python build with pygame package.🎮
+A simple snake and food game in python build with pygame package.I created it in my first year of college and I was quite proud of it at that time🎮
 
 # Screenshots
 - Game screen
